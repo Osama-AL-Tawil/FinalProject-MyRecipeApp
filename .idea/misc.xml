@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/a-FlutterProjects/RecipesProject/android/app/src/main/res/drawable-night-v21/launch_background.xml" value="0.1" />
+        <entry key="..\:/a-FlutterProjects/RecipesProject/android/app/src/main/res/drawable-night/launch_background.xml" value="0.1" />
+        <entry key="..\:/a-FlutterProjects/RecipesProject/android/app/src/main/res/drawable-v21/launch_background.xml" value="0.1" />
+        <entry key="..\:/a-FlutterProjects/RecipesProject/android/app/src/main/res/drawable/launch_background.xml" value="0.1" />
+        <entry key="..\:/a-FlutterProjects/RecipesProject/android/app/src/main/res/drawable/splash_bg.xml" value="0.1955" />
+        <entry key="..\:/a-FlutterProjects/RecipesProject/android/app/src/main/res/drawable/splash_screen_bg.xml" value="0.1955" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
